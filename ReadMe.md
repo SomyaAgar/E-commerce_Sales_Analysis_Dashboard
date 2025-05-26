@@ -25,6 +25,9 @@ This project presents an interactive dashboard built with Microsoft Power BI to 
 - Power BI
 - DAX
 - Excel (data cleaning)
+  
+## Dashboard Preview:
+![image](https://github.com/user-attachments/assets/7c2eebee-5b79-4efb-88b7-299ca4079539)
 
 ---
 
